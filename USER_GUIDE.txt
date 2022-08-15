@@ -1,0 +1,19 @@
+1. Run the application
+
+2. Click the "File" button. The file explorer will appear.
+
+3. Select a file for processing.
+
+4. Once a file is selected, choose the column number of the id numbers from the drop down menu provided.
+
+5. Click the "process" button.
+
+6. Wait for the program to process to completion.
+
+7. A folder "program_results" will be created on the desktop containing the results.
+
+NOTE - The process button will not activate until both the File and column have been selected.
+     - The accepted entries are stored in "Loadable.xls"
+     - The rejected entries are stored in "Rejected.xls"
+
+	
